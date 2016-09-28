@@ -1,0 +1,3846 @@
+fileFormatVersion: 2
+guid: 98f9737f84bd9ac49a61f021d0e8e771
+timeCreated: 1472221347
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rogue_0
+    21300002: HawkeyeIdleUp1
+    21300004: HawkeyeIdleUp2
+    21300006: HawkeyeIdleUp3
+    21300008: HawkeyeStandUp
+    21300010: Rogue_5
+    21300012: Rogue_6
+    21300014: HawkeyeWalkDown1
+    21300016: HawkeyeWalkDown2
+    21300018: HawkeyeWalkDown3
+    21300020: HawkeyeWalkDown4
+    21300022: HawkeyeWalkDown5
+    21300024: HawkeyeWalkDown6
+    21300026: HawkeyeWalkRight1
+    21300028: HawkeyeWalkRight2
+    21300030: HawkeyeWalkRight3
+    21300032: HawkeyeWalkRight4
+    21300034: HawkeyeWalkRight5
+    21300036: HawkeyeWalkRight6
+    21300038: HawkeyeWalkUp1
+    21300040: HawkeyeWalkUp2
+    21300042: HawkeyeWalkUp3
+    21300044: HawkeyeWalkUp4
+    21300046: HawkeyeWalkUp5
+    21300048: HawkeyeWalkUp6
+    21300050: HawkeyeRunDown1
+    21300052: HawkeyeRunDown2
+    21300054: HawkeyeRunDown3
+    21300056: HawkeyeRunDown4
+    21300058: HawkeyeRunDown5
+    21300060: HawkeyeRunDown
+    21300062: HawkeyeRunRight1
+    21300064: HawkeyeRunRight2
+    21300066: HawkeyeRunRight3
+    21300068: HawkeyeRunRight4
+    21300070: HawkeyeRunRight5
+    21300072: HawkeyeRunRight6
+    21300074: HawkeyeRunUp1
+    21300076: HawkeyeRunUp2
+    21300078: HawkeyeRunUp3
+    21300080: HawkeyeRunUp4
+    21300082: HawkeyeRunUp5
+    21300084: HawkeyeRunUp6
+    21300086: PlayerFace
+    21300088: HawkeyeStandRight
+    21300090: Rogue_45
+    21300092: Rogue_46
+    21300094: Rogue_47
+    21300096: Rogue_48
+    21300098: Rogue_49
+    21300100: Rogue_50
+    21300102: Rogue_51
+    21300104: Rogue_52
+    21300106: HawkeyeStandDown
+    21300108: Rogue_54
+    21300110: Rogue_55
+    21300112: Rogue_56
+    21300114: Rogue_57
+    21300116: Rogue_58
+    21300118: Rogue_59
+    21300120: Rogue_60
+    21300122: Rogue_61
+    21300124: Rogue_62
+    21300126: Rogue_63
+    21300128: Rogue_64
+    21300130: Rogue_65
+    21300132: Rogue_66
+    21300134: Rogue_67
+    21300136: Rogue_68
+    21300138: Rogue_69
+    21300140: Rogue_70
+    21300142: Rogue_71
+    21300144: Rogue_72
+    21300146: Rogue_73
+    21300148: Rogue_74
+    21300150: Rogue_75
+    21300152: Rogue_76
+    21300154: Rogue_77
+    21300156: Rogue_78
+    21300158: Rogue_79
+    21300160: Rogue_80
+    21300162: Rogue_81
+    21300164: Rogue_82
+    21300166: Rogue_83
+    21300168: Rogue_84
+    21300170: Rogue_85
+    21300172: Rogue_86
+    21300174: Rogue_87
+    21300176: Rogue_94
+    21300178: Rogue_101
+    21300180: Rogue_102
+    21300182: Rogue_103
+    21300184: Rogue_104
+    21300186: Rogue_106
+    21300188: Rogue_108
+    21300190: Rogue_109
+    21300192: Rogue_110
+    21300194: Rogue_111
+    21300196: Rogue_112
+    21300198: Rogue_113
+    21300200: Rogue_114
+    21300202: Rogue_115
+    21300204: Rogue_116
+    21300206: Rogue_117
+    21300208: Rogue_118
+    21300210: Rogue_119
+    21300212: Rogue_120
+    21300214: Rogue_121
+    21300216: Rogue_122
+    21300218: Rogue_123
+    21300220: Rogue_124
+    21300222: Rogue_125
+    21300224: Rogue_126
+    21300226: Rogue_127
+    21300228: Rogue_130
+    21300230: Rogue_132
+    21300232: Rogue_133
+    21300234: Rogue_134
+    21300236: Rogue_135
+    21300238: Rogue_136
+    21300240: Rogue_137
+    21300242: Rogue_138
+    21300244: Rogue_139
+    21300246: Rogue_140
+    21300248: Rogue_141
+    21300250: Rogue_142
+    21300252: Rogue_143
+    21300254: Rogue_144
+    21300256: Rogue_145
+    21300258: Rogue_147
+    21300260: Rogue_148
+    21300262: Rogue_149
+    21300264: Rogue_150
+    21300266: Rogue_151
+    21300268: Rogue_152
+    21300270: Rogue_153
+    21300272: Rogue_154
+    21300274: Rogue_155
+    21300276: Rogue_156
+    21300278: Rogue_157
+    21300280: HawkeyeJumpDown1
+    21300282: HawkeyeJumpDown2
+    21300284: HawkeyeJumpDown3
+    21300286: HawkeyeJumpDown4
+    21300288: Rogue_162
+    21300290: Rogue_163
+    21300292: HawkeyeJumpRight1
+    21300294: HawkeyeJumpRight2
+    21300296: HawkeyeJumpRight3
+    21300298: HawkeyeJumpRight4
+    21300300: Rogue_168
+    21300302: Rogue_169
+    21300304: Rogue_170
+    21300306: Rogue_171
+    21300308: HawkeyeAttackDown1
+    21300310: HawkeyeAttackDown5
+    21300312: HawkeyeAttackDown7
+    21300314: HawkeyeAttackDown8
+    21300316: HawkeyeAttackUp3
+    21300318: HawkeyeAttackUp4
+    21300320: HawkeyeAttackUp6
+    21300322: Rogue_179
+    21300324: Rogue_180
+    21300326: Rogue_181
+    21300328: Rogue_182
+    21300330: Rogue_183
+    21300332: Rogue_185
+    21300334: HawkeyeAttackDown2
+    21300336: HawkeyeAttackDown3
+    21300338: HawkeyeAttackDown4
+    21300340: HawkeyeAttackDown6
+    21300342: HawkeyeAttackDown9
+    21300344: HawkeyeAttackUp1
+    21300346: HawkeyeAttackUp2
+    21300348: HawkeyeAttackUp5
+    21300350: HawkeyeAttackUp7
+    21300352: Rogue_196
+    21300354: Rogue_197
+    21300356: Rogue_198
+    21300358: Rogue_199
+    21300360: Rogue_200
+    21300362: Rogue_201
+    21300364: Rogue_202
+    21300366: Rogue_203
+    21300368: Rogue_204
+    21300370: Rogue_205
+    21300372: Rogue_206
+    21300374: Rogue_207
+    21300376: Rogue_209
+    21300378: Rogue_210
+    21300380: Rogue_211
+    21300382: Rogue_212
+    21300384: Rogue_213
+    21300386: Rogue_214
+    21300388: Rogue_215
+    21300390: Rogue_216
+    21300392: Rogue_217
+    21300394: Rogue_218
+    21300396: Rogue_219
+    21300398: Rogue_220
+    21300400: Rogue_221
+    21300402: Rogue_222
+    21300404: Rogue_223
+    21300406: Rogue_224
+    21300408: Rogue_225
+    21300410: Rogue_226
+    21300412: Rogue_227
+    21300414: Rogue_228
+    21300416: Rogue_229
+    21300418: Rogue_230
+    21300420: Rogue_231
+    21300422: Rogue_232
+    21300424: Rogue_233
+    21300426: Rogue_234
+    21300428: Rogue_235
+    21300430: Rogue_236
+    21300432: Rogue_237
+    21300434: Rogue_238
+    21300436: Rogue_240
+    21300438: Rogue_241
+    21300440: Rogue_242
+    21300442: Rogue_243
+    21300444: Rogue_244
+    21300446: Rogue_245
+    21300448: Rogue_246
+    21300450: Rogue_247
+    21300452: Rogue_248
+    21300454: Rogue_249
+    21300456: Rogue_250
+    21300458: Rogue_251
+    21300460: Rogue_252
+    21300462: Rogue_253
+    21300464: Rogue_254
+    21300466: Rogue_255
+    21300468: Rogue_256
+    21300470: Rogue_257
+    21300472: Rogue_258
+    21300474: Rogue_259
+    21300476: Rogue_260
+    21300478: Rogue_261
+    21300480: Rogue_262
+    21300482: Rogue_263
+    21300484: Rogue_264
+    21300486: Rogue_265
+    21300488: Rogue_266
+    21300490: Rogue_267
+    21300492: Rogue_268
+    21300494: Rogue_269
+    21300496: Rogue_270
+    21300498: Rogue_271
+    21300500: Rogue_272
+    21300502: Rogue_273
+    21300504: Rogue_274
+    21300506: Rogue_275
+    21300508: Rogue_276
+    21300510: Rogue_277
+    21300512: Rogue_278
+    21300514: Rogue_279
+    21300516: Rogue_280
+    21300518: Rogue_281
+    21300520: Rogue_282
+    21300522: Rogue_283
+    21300524: Rogue_284
+    21300526: Rogue_285
+    21300528: Rogue_286
+    21300530: Rogue_287
+    21300532: Rogue_288
+    21300534: Rogue_289
+    21300536: Rogue_290
+    21300538: Rogue_291
+    21300540: Rogue_292
+    21300542: Rogue_293
+    21300544: Rogue_294
+    21300546: Rogue_295
+    21300548: Rogue_296
+    21300550: Rogue_297
+    21300552: Rogue_298
+    21300554: Rogue_299
+    21300556: Rogue_300
+    21300558: Rogue_301
+    21300560: Rogue_302
+    21300562: Rogue_303
+    21300564: Rogue_304
+    21300566: Rogue_305
+    21300568: Rogue_306
+    21300570: Rogue_307
+    21300572: Rogue_308
+    21300574: Rogue_309
+    21300576: Rogue_310
+    21300578: Rogue_311
+    21300580: Rogue_312
+    21300582: Rogue_313
+    21300584: Rogue_314
+    21300586: Rogue_315
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rogue_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 329
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeIdleUp1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 329
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeIdleUp2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 329
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeIdleUp3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 329
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeStandUp
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 329
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 329
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 329
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkDown1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkDown2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkDown3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 329
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkDown4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 329
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkDown5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkDown6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkRight1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkRight2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 329
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkRight3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 329
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkRight4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 329
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkRight5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 329
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkRight6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 329
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkUp1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 329
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkUp2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 329
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkUp3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 329
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkUp4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 329
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkUp5
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 329
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeWalkUp6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 329
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunDown1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunDown2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 329
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunDown3
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunDown4
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunDown5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 329
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunDown
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunRight1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 329
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunRight2
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunRight3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 329
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunRight4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunRight5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 329
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunRight6
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 329
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunUp1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 329
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunUp2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunUp3
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 329
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunUp4
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 329
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunUp5
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeRunUp6
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 329
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayerFace
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 295
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeStandRight
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 295
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 295
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 295
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 295
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 295
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 295
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 295
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 295
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 295
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeStandDown
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 295
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_54
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 295
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 295
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_56
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 295
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 295
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_58
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 295
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 295
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 295
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_61
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 295
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 295
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_63
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 295
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_64
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 295
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_65
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 295
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_66
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 295
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_67
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 295
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_68
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 295
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_69
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 295
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_70
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 295
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_71
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 295
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_72
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 295
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_73
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 295
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_74
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 295
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_75
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_76
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 295
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_77
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 295
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_78
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 295
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_79
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 295
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_80
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 295
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_81
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 295
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_82
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 295
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_83
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 295
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_84
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 295
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_85
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 295
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_86
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 295
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 25.5}
+        - {x: -22.5, y: 24.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -21.5, y: -13.5}
+        - {x: -6.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 22.5, y: -20.5}
+        - {x: 22.5, y: 24.5}
+        - {x: 18.5, y: 25.5}
+    - name: Rogue_101
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 242
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_102
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 242
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_103
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 242
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_104
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 242
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -18.5, y: 1.5}
+        - {x: -18.5, y: -11.5}
+        - {x: -14.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 18.5, y: 1.5}
+        - {x: 18.5, y: 14.5}
+        - {x: 9.5, y: 16.5}
+    - name: Rogue_106
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 242
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: 9, y: 14}
+        - {x: 9, y: 12}
+        - {x: 9, y: 14}
+        - {x: 7, y: 16}
+        - {x: -18, y: 16}
+        - {x: -18, y: -3}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 18, y: 0}
+        - {x: 18, y: 15}
+        - {x: 16, y: 16}
+    - name: Rogue_108
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 242
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_109
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 242
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 242
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 0.5}
+        - {x: -14.5, y: -9.5}
+        - {x: -14.5, y: -25.5}
+        - {x: 13.5, y: -25.5}
+        - {x: 13.5, y: -1.5}
+        - {x: 8.5, y: 0.5}
+      - - {x: 21.5, y: 8.5}
+        - {x: 21.5, y: 3.5}
+        - {x: 22.5, y: 1.5}
+        - {x: 25.5, y: 1.5}
+        - {x: 31.5, y: 7.5}
+        - {x: 31.5, y: 21.5}
+        - {x: 27.5, y: 20.5}
+      - - {x: -31.5, y: 25.5}
+        - {x: -31.5, y: 13.5}
+        - {x: -24.5, y: 7.5}
+        - {x: -21.5, y: 8.5}
+        - {x: -21.5, y: 12.5}
+        - {x: -22.5, y: 18.5}
+        - {x: -28.5, y: 25.5}
+    - name: Rogue_111
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 242
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8.5}
+        - {x: -14.5, y: -1.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 13.5, y: -17.5}
+        - {x: 13.5, y: 6.5}
+        - {x: 8.5, y: 8.5}
+      - - {x: 17.5, y: 13.5}
+        - {x: 13.5, y: 2.5}
+        - {x: 13.5, y: -6.5}
+        - {x: 17.5, y: -6.5}
+        - {x: 23.5, y: -0.5}
+        - {x: 23.5, y: 13.5}
+      - - {x: -23.5, y: 17.5}
+        - {x: -23.5, y: 7.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -13.5, y: 0.5}
+        - {x: -13.5, y: 6.5}
+        - {x: -19.5, y: 17.5}
+    - name: Rogue_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 242
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_113
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 242
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_114
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 242
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_115
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 242
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_116
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 242
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_117
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 242
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_118
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 242
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_119
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 242
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_120
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 242
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_121
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 242
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_122
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 242
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_123
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 242
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 2}
+        - {x: 8.5, y: 4}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -9}
+        - {x: -14.5, y: -20}
+        - {x: -11.5, y: -22}
+        - {x: 8.5, y: -22}
+        - {x: 14.5, y: -16}
+        - {x: 14.5, y: -6}
+      - - {x: -29.5, y: 22}
+        - {x: -29.5, y: 12}
+        - {x: -22.5, y: 4}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: 11}
+        - {x: -25.5, y: 22}
+      - - {x: 24.5, y: 22}
+        - {x: 19.5, y: 13}
+        - {x: 19.5, y: 4}
+        - {x: 23.5, y: 4}
+        - {x: 29.5, y: 10}
+        - {x: 29.5, y: 22}
+    - name: Rogue_124
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 242
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_125
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 242
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 0}
+        - {x: -8.5, y: -4}
+        - {x: -11.5, y: -15}
+        - {x: -11.5, y: -21}
+        - {x: -7.5, y: -24}
+        - {x: 10.5, y: -24}
+        - {x: 12.5, y: -21}
+        - {x: 12.5, y: -2}
+        - {x: 7.5, y: 0}
+      - - {x: -29.5, y: 24}
+        - {x: -29.5, y: 14}
+        - {x: -22.5, y: 6}
+        - {x: -19.5, y: 7}
+        - {x: -19.5, y: 13}
+        - {x: -25.5, y: 24}
+      - - {x: 24.5, y: 24}
+        - {x: 19.5, y: 13}
+        - {x: 19.5, y: 8}
+        - {x: 21.5, y: 6}
+        - {x: 24.5, y: 7}
+        - {x: 29.5, y: 14}
+        - {x: 29.5, y: 24}
+    - name: Rogue_126
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 242
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 8}
+        - {x: -2, y: 8}
+        - {x: -9, y: 4}
+        - {x: -12, y: -7}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 3}
+        - {x: 11, y: 4}
+      - - {x: -22, y: 16}
+        - {x: -22, y: 7}
+        - {x: -21, y: 5}
+        - {x: -19, y: 2}
+        - {x: -15, y: -3}
+        - {x: -12, y: -2}
+        - {x: -12, y: 3}
+        - {x: -13, y: 8}
+        - {x: -20, y: 16}
+      - - {x: 16, y: 16}
+        - {x: 11, y: 7}
+        - {x: 11, y: -2}
+        - {x: 15, y: -2}
+        - {x: 22, y: 5}
+        - {x: 22, y: 16}
+    - name: Rogue_127
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 242
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_130
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 242
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_132
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 196
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_133
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 196
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_134
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 196
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_135
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 196
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_136
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 196
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_137
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 196
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_138
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 196
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_139
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 196
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_140
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 196
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_141
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 196
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_142
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 196
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_143
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 196
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 196
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_145
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 196
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 16}
+        - {x: -18.5, y: -4}
+        - {x: -15.5, y: -16}
+        - {x: 10.5, y: -16}
+        - {x: 10.5, y: 0}
+        - {x: 7.5, y: 16}
+      - - {x: 9.5, y: 16}
+        - {x: 8.5, y: 14}
+        - {x: 8.5, y: 9}
+        - {x: 12.5, y: 6}
+        - {x: 18.5, y: 6}
+        - {x: 18.5, y: 14}
+        - {x: 17.5, y: 16}
+    - name: Rogue_147
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_148
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 196
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_149
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 196
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_150
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 196
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_151
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 196
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_152
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 196
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_153
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 196
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_154
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 196
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_155
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 196
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_156
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 196
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_157
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 196
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeJumpDown1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 196
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeJumpDown2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 196
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeJumpDown3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 196
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeJumpDown4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 196
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_162
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 196
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_163
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 196
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeJumpRight1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeJumpRight2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeJumpRight3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeJumpRight4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_168
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 196
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_169
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 196
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_170
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 196
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_171
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 196
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackDown1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 139
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20}
+        - {x: -17.5, y: -20}
+        - {x: -1.5, y: -20}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 14}
+        - {x: -0.5, y: 20}
+    - name: HawkeyeAttackDown5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 139
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackDown7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 139
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 19}
+        - {x: -4.5, y: 19}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -13}
+        - {x: -8.5, y: -19}
+        - {x: 6.5, y: -19}
+        - {x: 5.5, y: -16}
+        - {x: 12.5, y: -7}
+        - {x: 16.5, y: -1}
+    - name: HawkeyeAttackDown8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 138
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -10}
+        - {x: -18, y: -17}
+        - {x: -12, y: -21}
+        - {x: 7, y: -21}
+        - {x: 14, y: -14}
+        - {x: 14, y: -10}
+      - - {x: -13, y: 21}
+        - {x: -15, y: 12}
+        - {x: -15, y: 0}
+        - {x: -6, y: -9}
+        - {x: 0, y: -8}
+        - {x: 16, y: -9}
+        - {x: 18, y: -9}
+        - {x: 18, y: 8}
+        - {x: 9, y: 21}
+    - name: HawkeyeAttackUp3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 139
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackUp4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 139
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackUp6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 139
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_179
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 139
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_180
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 139
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_181
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 139
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 20.5, y: 5.5}
+        - {x: 8.5, y: 20.5}
+    - name: Rogue_182
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 139
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 2.5}
+        - {x: 1, y: 18.5}
+        - {x: -16, y: 18.5}
+        - {x: -20, y: 12.5}
+        - {x: -20, y: -7.5}
+        - {x: -17, y: -13.5}
+        - {x: -13, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 20, y: -10.5}
+        - {x: 20, y: 3.5}
+    - name: Rogue_183
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 139
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_185
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 139
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackDown2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 139
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackDown3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 139
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackDown4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 139
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackDown6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 139
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackDown9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 139
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackUp1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 139
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackUp2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 139
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackUp5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 139
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HawkeyeAttackUp7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 139
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_196
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 139
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_197
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 139
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_198
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 139
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_199
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 139
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_200
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 139
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_201
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 139
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 16}
+        - {x: -17.5, y: 13}
+        - {x: -17.5, y: -16}
+        - {x: 13.5, y: -16}
+        - {x: 17.5, y: -13}
+        - {x: 17.5, y: 13}
+        - {x: 16.5, y: 16}
+    - name: Rogue_202
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 139
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_203
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 139
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_204
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 139
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -17, y: 5}
+        - {x: -17, y: -10}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 17, y: -13}
+        - {x: 17, y: -4}
+        - {x: 8, y: 16}
+    - name: Rogue_205
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 139
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 11}
+        - {x: -12.5, y: 2}
+        - {x: -12.5, y: -21}
+        - {x: 1.5, y: -21}
+        - {x: 16.5, y: -7}
+        - {x: 16.5, y: 11}
+      - - {x: -12.5, y: 21}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: 11}
+        - {x: 15.5, y: 11}
+        - {x: 15.5, y: 15}
+        - {x: 8.5, y: 21}
+    - name: Rogue_206
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 139
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_207
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 139
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_209
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 94
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 16}
+        - {x: -20.5, y: 10}
+        - {x: -20.5, y: -9}
+        - {x: -19.5, y: -16}
+        - {x: 11.5, y: -16}
+        - {x: 20.5, y: -14}
+        - {x: 20.5, y: -2}
+        - {x: 3.5, y: 16}
+    - name: Rogue_210
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 94
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_211
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 94
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_212
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 94
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_213
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 94
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_214
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 94
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_215
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 94
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 16}
+        - {x: -19.5, y: -10}
+        - {x: -17.5, y: -15}
+        - {x: -15.5, y: -16}
+        - {x: 15.5, y: -16}
+        - {x: 19.5, y: -15}
+        - {x: 19.5, y: 16}
+    - name: Rogue_216
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 94
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_217
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 94
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_218
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 94
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 18.5}
+        - {x: -12, y: 18.5}
+        - {x: -20, y: 15.5}
+        - {x: -20, y: -11.5}
+        - {x: -19, y: -15.5}
+        - {x: -8, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 20, y: -10.5}
+        - {x: 20, y: 3.5}
+    - name: Rogue_219
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 94
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_220
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 94
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_221
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 94
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_222
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 94
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -8.5}
+        - {x: -13, y: -8.5}
+        - {x: -13, y: -12.5}
+        - {x: -6, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 21, y: -12.5}
+        - {x: 21, y: -8.5}
+        - {x: 18, y: -8.5}
+        - {x: 10, y: -9.5}
+      - - {x: -11, y: 18.5}
+        - {x: -23, y: 16.5}
+        - {x: -23, y: 5.5}
+        - {x: 0, y: -6.5}
+        - {x: 12, y: -6.5}
+        - {x: 23, y: 1.5}
+        - {x: 23, y: 12.5}
+        - {x: 14, y: 18.5}
+    - name: Rogue_223
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 94
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_224
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 94
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_225
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 94
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_226
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 94
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_227
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 94
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_228
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 94
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_229
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 94
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_230
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 94
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_231
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 94
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_232
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 94
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_233
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 94
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_234
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 94
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_235
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 94
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_236
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 94
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_237
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 94
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_238
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 94
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_240
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 48
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_241
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 48
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_242
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_243
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_244
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 48
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_245
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 48
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_246
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 48
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_247
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 48
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_248
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 48
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_249
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 48
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_250
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 48
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_251
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 48
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_252
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 48
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_253
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 48
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_254
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 48
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_255
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 48
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_256
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 48
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_257
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 48
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_258
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 48
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_259
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 48
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_260
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 48
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_261
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_262
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_263
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 48
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_264
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 48
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_265
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 48
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_266
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 48
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_267
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 48
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_268
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 48
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_269
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 48
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_270
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_271
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 48
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_272
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 48
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_273
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 48
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_274
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 48
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_275
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 48
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_276
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 48
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_277
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 48
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_278
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 48
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_279
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_280
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_281
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_282
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_283
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_284
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 4
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_285
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_286
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_287
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_288
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_289
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_290
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_291
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 4
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_292
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_293
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 4
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_294
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 4
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_295
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 4
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_296
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_297
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_298
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 4
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_299
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 4
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_300
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_301
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_302
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 4
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_303
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 4
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_304
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 4
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_305
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_306
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 4
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_307
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 4
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_308
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 4
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_309
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_310
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 4
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_311
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_312
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 4
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_313
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 4
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_314
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rogue_315
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 6
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

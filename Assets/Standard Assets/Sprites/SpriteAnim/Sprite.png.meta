@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: d150393b4149f264a9921a535ce12100
+timeCreated: 1472221318
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteStandDown
+    21300002: SpriteStandUp
+    21300004: SpriteStandLeft
+    21300006: SpriteWalkLeft_1
+    21300008: SpriteWalkLeft_2
+    21300010: SpriteWalkLeft_3
+    21300012: SpriteWalkLeft_4
+    21300014: SpriteWalkLeft_5
+    21300016: SpriteWalkLeft_6
+    21300018: SpriteWalkDown_1
+    21300020: SpriteWalkDown_2
+    21300022: SpriteWalkDown_3
+    21300024: SpriteWalkDown_4
+    21300026: SpriteWalkDown_5
+    21300028: SpriteWalkDown_6
+    21300030: SpriteWalkUp_1
+    21300032: SpriteWalkUp_2
+    21300034: SpriteWalkUp_3
+    21300036: SpriteWalkUp_4
+    21300038: SpriteWalkUp_5
+    21300040: SpriteWalkUp_6
+    21300042: SpriteRunLeft_1
+    21300044: SpriteRunLeft_2
+    21300046: SpriteRunDown_1
+    21300048: SpriteRunDown_2
+    21300050: SpriteRunUp_1
+    21300052: SpriteRunUp_2
+    21300054: SpriteJumpLeft
+    21300056: SpriteJumpUp
+    21300058: SpriteJumpDown
+    21300060: SpritePunchLeft
+    21300062: SpritePunchUp
+    21300064: SpritePunchDown
+    21300066: SpriteHit1
+    21300068: SpriteHit2
+    21300070: SpriteHit3
+    21300072: SpriteHit4
+    21300074: SpriteHit5
+    21300076: SpriteHit6
+    21300078: SpriteHit7
+    21300080: SpriteHit8
+    21300082: SpriteHit9
+    21300084: SpriteHit10
+    21300086: SpriteHit11
+    21300088: SpriteHit12
+    21300090: PlayerFace
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpriteStandDown
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1079
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteStandUp
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1079
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteStandLeft
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1079
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkLeft_1
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1479
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkLeft_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1479
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkLeft_3
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1479
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkLeft_4
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1479
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkLeft_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1479
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkLeft_6
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1479
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkDown_1
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1431
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkDown_2
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1431
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkDown_3
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1431
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkDown_4
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1431
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkDown_5
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1431
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkDown_6
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1431
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkUp_1
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1383
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkUp_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1383
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkUp_3
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1383
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkUp_4
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1383
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkUp_5
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1383
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteWalkUp_6
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1383
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteRunLeft_1
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1479
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteRunLeft_2
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1479
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteRunDown_1
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1431
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteRunDown_2
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1431
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteRunUp_1
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1383
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteRunUp_2
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1383
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteJumpLeft
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 759
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteJumpUp
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 713
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteJumpDown
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 667
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpritePunchLeft
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1015
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpritePunchUp
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1015
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpritePunchDown
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1013
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit1
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1148
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit2
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1150
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.54, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit3
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1143
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit4
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1142
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit5
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1143
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit6
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1143
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit7
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1143
+        width: 27
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit8
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1143
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit9
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1143
+        width: 21
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit10
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1144
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit11
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1143
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpriteHit12
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1143
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayerFace
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 583
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

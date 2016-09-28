@@ -1,0 +1,53 @@
+Alpha / Proof of Concept
+
+
+Goal: A playable game with 
+
+
+Version Requirements
+
+0.1 Basic Movement Movable Link Sprite
+Collision Detection
+Jumping
+Falling
+
+0.2 Rooms Scrollable Room
+Room Transitions
+One-Way Platforms, Drop Through Floors
+Hazards (Damaging Objects)
+0.3 Interface HUD / Screen Elements (Heart Containers, Magic Bar, Rupee Tracker, Active Items, Minimap)
+Pause Screen
+Item Select Screen
+Game Over Screen with Restart and Quit Options.
+
+0.4 Combat Sword
+Boomerang
+Monster (Patrol Movement, Hero Detection and Attack, Hit Detection, Respawn)
+
+0.5 World Interaction Switches (Floor, Wall)
+Keys and Locked Doors
+Pushable Blocks
+Treasure Chests
+
+0.6 Advanced Combat Advanced AI (Pursuit, Chasing, Jumping, Defense/Avoidance, Item Use?)
+
+0.7 Advanced Movement Dash
+Climbing (Vine Wall, Ladder)
+Edge Grab
+Wall Jump
+Double Jump
+Moving Platforms
+
+0.8 Events Conversations
+Scripted Movement
+0.9 Audiovisual Sprite Art and Animations
+Music and Sound Effects
+Background Art
+
+1.0 Release Testing
+Bug Fixes
+Final Polish
+
+Collision Detection
+
+Phase 1: Assuming lateral movement is great enough to cross a 16px increment along the x-axis, use modified Bresenham’s Line Algorithm to locate intercepts with 16px grid that indicate additional 16px tiles to test for collision.

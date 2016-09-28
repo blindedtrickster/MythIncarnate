@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: cfc764a7d04a8b445947aef829c59b15
+timeCreated: 1470408320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RabiteAndSilktail_4
+    21300002: RabiteAndSilktail_5
+    21300004: RabiteAndSilktail_6
+    21300006: RabiteAndSilktail_7
+    21300008: RabiteAndSilktail_8
+    21300010: RabiteAndSilktail_9
+    21300012: RabiteAndSilktail_10
+    21300014: RabiteAndSilktail_11
+    21300016: RabiteAndSilktail_12
+    21300018: RabiteAndSilktail_13
+    21300020: RabiteAndSilktail_14
+    21300022: RabiteAndSilktail_15
+    21300024: RabiteAndSilktail_21
+    21300026: RabiteAndSilktail_22
+    21300028: RabiteAndSilktail_23
+    21300030: RabiteAndSilktail_24
+    21300032: RabiteAndSilktail_25
+    21300034: RabiteAndSilktail_26
+    21300036: RabiteAndSilktail_27
+    21300038: RabiteAndSilktail_28
+    21300040: RabiteAndSilktail_29
+    21300042: RabiteAndSilktail_30
+    21300044: RabiteAndSilktail_31
+    21300046: RabiteAndSilktail_32
+    21300048: RabiteAndSilktail_48
+    21300050: RabiteAndSilktail_49
+    21300052: RabiteAndSilktail_50
+    21300054: RabiteAndSilktail_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RabiteAndSilktail_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 228
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 228
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 228
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 197
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 197
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 197
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 197
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 165
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 165
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 165
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 165
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 96
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 64
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 64
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 22
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 22
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 22
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RabiteAndSilktail_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
